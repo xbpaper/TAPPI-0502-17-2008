@@ -1,37 +1,17 @@
 # TAPPI-0502-17-2008
 
-#### 介绍
+## 项目介绍
+
 这是一个专门针对造纸行业的工艺计算指导手册，本人将主要的计算公式进行重新编排并开源。
 
-#### 软件架构
-软件架构说明
+## 说明
 
+使用Markdown格式重新编写，并主要聚焦SI国际制单位，更符合国人习惯。
 
-#### 安装教程
+## 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+当前计算公式已经全部集成到https://tool.paperfancy.cn/tappi-calculation，欢迎使用。
 
-#### 使用说明
+## 其他
+如果您发现有任何bug，还请提供提交代码检查变更。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
