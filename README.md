@@ -10,7 +10,7 @@
 
 ## 使用说明
 
-当前计算公式已经全部集成到https://tool.paperfancy.cn/tappi-calculation，欢迎使用。
+当前计算公式已经全部集成到https://tool.paperfancy.cn/tappi-calculation。
 
 ## 其他
 如果您发现有任何bug，还请提供提交代码检查变更。
